@@ -293,4 +293,4 @@ MIT License
 
 ## Author
 
-Ahmed Yacoub
+Andrew Yacoub
